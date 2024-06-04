@@ -176,6 +176,10 @@ img.avatar {
     grid-template-columns: 1fr;
   }
 
+  .container {
+    max-width: 90dvw;
+    margin: 6vw auto;
+  }
   .links, .job-title-container {
     flex-direction: column;
   }
